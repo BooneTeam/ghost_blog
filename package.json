@@ -27,6 +27,7 @@
     "iojs": "~1.2.0"
   },
   "dependencies": {
+    "animateplus": "^1.4.0",
     "bcryptjs": "2.3.0",
     "bluebird": "2.10.2",
     "body-parser": "1.14.2",
@@ -63,7 +64,7 @@
     "rss": "1.2.1",
     "semver": "5.1.0",
     "showdown-ghost": "0.3.6",
-    "sqlite3": "3.1.1",
+    "sqlite3": "^3.1.1",
     "unidecode": "0.1.8",
     "validator": "4.5.0",
     "xml": "1.0.0"
